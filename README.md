@@ -5,6 +5,8 @@ Chimps Academy NFT Collection mint app.
 
 **Link to App -** https://chimps-academy-nft-collection.vercel.app/
 
+**Link to Smart Contract repository -** https://github.com/bhagyamudgal/chimps-academy-nft-collection-contract
+
 **My Portfolio Website -** https://www.bhagyamudgal.me/
 
 
