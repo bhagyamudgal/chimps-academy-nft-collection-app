@@ -416,7 +416,7 @@ export default function Home() {
 			<footer className={styles.footer}>
 				Developed by
 				<a
-					href="https://www.bhagyamudgal.me/"
+					href="https://www.bhagyamudgal.com/"
 					target="_blank"
 					rel="noopener noreferrer"
 					className={styles.link}
